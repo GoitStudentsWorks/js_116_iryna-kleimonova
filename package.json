@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/js-project-team-7/",
+    "build": "vite build --base=/js_116_iryna-kleimonova/",
     "preview": "vite preview"
   },
   "devDependencies": {
